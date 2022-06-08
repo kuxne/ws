@@ -1,0 +1,13 @@
+<StackPanel Margin="0,85,0,0" Height="85" VerticalAlignment="Top" RenderTransformOrigin="0.521,0.342" Background="#FF76E383">
+            <Image Height="86" Source="/D548T5.jpg" Stretch="Fill" Width="150" Margin="0,0,650,0"/>
+        </StackPanel>
+        <StackPanel Margin="0,0,0,354" Background="#FF76E383">
+            <Image Height="80" Source="/А112Т4.jpg" Stretch="Fill" Width="147" Margin="0,0,650,0"/>
+            
+        </StackPanel>
+        <Label Content="Набор кастрюль Webber BE-335/6 6 пр. серебристый" HorizontalAlignment="Left" Margin="240,25,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.585,0.589" FontFamily="Comic Sans MS" FontSize="16"/>
+        <RadioButton Content="6 шт." HorizontalAlignment="Left" Margin="702,31,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="16"/>
+        <Label Content="Столовый сервиз Luminarc Every Day" HorizontalAlignment="Left" Margin="268,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.679,-0.385" FontFamily="Comic Sans MS" FontSize="16"/>
+        <Label Content="G0566, 6 персон, 18 предм." HorizontalAlignment="Left" Margin="294,114,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="16"/>
+        <RadioButton Content="10 шт." HorizontalAlignment="Left" Margin="695,110,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="16" RenderTransformOrigin="0.433,2.11"/>
+    </Grid>

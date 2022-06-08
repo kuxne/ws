@@ -1,0 +1,21 @@
+<Grid>
+        <StackPanel Background="#FF76E383" Margin="0,0,0,375"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="699,15,0,0" VerticalAlignment="Top"/>
+        <Image Source="/logo.png" Opacity=".20" Margin="34,64,34,26">
+        </Image>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" Height="185" Width="327">
+                <Button x:Name="buttonOrder"  Padding="5" Margin="10" Height="38" Width="219"  Content="Товар"/>
+                <Button x:Name="buttobIzmenity"  Padding="5" Margin="10" Height="38" Width="219" Content="Изменить"/>
+                <Button x:Name="buttonDobav"  Padding="5" Margin="10" Height="38" Width="219" Content="Дабавить"/>
+
+
+
+       
+        </StackPanel>
+        </StackPanel>
+       
+    </Grid>
+</Window>
